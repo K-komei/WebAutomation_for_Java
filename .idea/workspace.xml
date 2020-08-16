@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97dad1ee-87e7-490e-b584-a05f0a342bbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Automation_for_Java\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g7xE8ldPMDzGU2z5qX9dkjTqW4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/addJarFiles/okio-1.14.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.59770113" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunControlChrome" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <output_file path="$USER_HOME$/Desktop/test.txt" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="WebControl.RunControlChrome" />
+      <module name="Automation_for_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="アプリケーション">
+      <option name="MAIN_CLASS_NAME" value="RunControlChrome" />
+      <module name="Automation_for_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="アプリケーション.RunControlChrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97dad1ee-87e7-490e-b584-a05f0a342bbf" name="Default Changelist" comment="" />
+      <created>1597479317750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597479317750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1597479373913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1597479373913" />
+    <state x="340" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597558993563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="340" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597558993563" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597558985249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1597558985249" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1597480920337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1597480920337" />
+    <state x="457" y="154" key="FileChooserDialogImpl" timestamp="1597481305466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597481305466" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597578955996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597566186350" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597578955996" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597578955996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597566186349" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597578955996" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597578955996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597566186349" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597578955996" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597578955996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597566186350" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597578955996" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1597480870897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1597480870897" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1597481077558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597481077558" />
+    <state x="559" y="190" key="chooseDestDirectoryDialog" timestamp="1597558226403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="559" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1597558226403" />
+    <state x="544" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1597576467471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="435" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597559553290" />
+    <state x="544" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597576467471" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1597561294392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597561294392" />
+  </component>
+</project>
